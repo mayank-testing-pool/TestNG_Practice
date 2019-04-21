@@ -1,0 +1,56 @@
+TestNG - unit test Framework
+TDD Framework - Test Driver Development
+its opensources.
+Available in form of Jar file.
+Also known as Java unit testing framework.
+
+purpose - Design Test Case in a systematic way.
+--Generate HTML report
+--different annotations
+--priorities/sequence of test case
+--dependencies feature
+--grouping feature
+--data provider
+
+Annotation Sequence
+If program is having one @Test annotation
+1 - @BeforeSuite
+2 - @BeforeTest
+3 - @BeforeClass
+4 - @BeforeMethod
+5 - @Test
+6 - @AfterMethod
+7 - @AfterClass
+8 - @AfterTest
+9 - @AfterSuite
+
+If program is having more then one @Test annotation
+
+1 - @BeforeSuite
+2 - @BeforeTest
+3 - @BeforeClass
+
+4 - @BeforeMethod
+5 - @Test
+6 - @AfterMethod
+
+7 - @BeforeMethod
+8 - @Test
+9 - @AfterMethod
+...
+...
+...
+10 - @AfterClass
+11 - @AfterTest
+12 - @AfterSuite
+
+TestNG Feature:
+priority - Define priority of Test case
+dependsOnMethods - define if a methid is define on some other method
+
+
+Install TestNG
+- TestNG is bundled in IDEA 7 onwards, no extra plugins need to be installed
+
+
+
