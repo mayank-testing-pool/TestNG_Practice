@@ -4,7 +4,8 @@ import org.testng.annotations.Test;
 
 public class InvocationCountTest {
 
-@Test (invocationCount = 10)
+@Test (invocationCount = 5)
+
 public void sum ()
 {
     int a = 10;
