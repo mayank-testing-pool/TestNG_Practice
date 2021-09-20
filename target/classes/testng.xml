@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="TestNG Practice Suite" >
+    <test name="Different TestNg Annotation and Features" >
+        <classes>
+            <class name="TestNG_Programs.TestNGBasics" />
+            <class name="TestNG_Programs.GoogleTest" />
+            <class name="TestNG_Programs.GoogleTitleTest" />
+            <class name="TestNG_Programs.TestNgFeatures" />
+            <class name="TestNG_Programs.ExceptionTimeOutTest" />
+            <class name="TestNG_Programs.InvocationCountTest" />
+        </classes>
+    </test>
+</suite>
