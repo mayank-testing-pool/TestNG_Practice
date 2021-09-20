@@ -46,7 +46,7 @@ If program is having more then one @Test annotation
 
 TestNG Feature:
 priority - Define priority of Test case
-dependsOnMethods - define if a methid is define on some other method
+dependsOnMethods - define if a method is define on some other method
 
 
 Install TestNG
