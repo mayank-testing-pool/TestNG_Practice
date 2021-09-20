@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48d145ac-1463-4232-b0ba-1fbf55fa5581" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNG_Programs/TestNG_Annotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/TestNG_Programs/ExceptionTimeOutTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/TestNG_Programs/GoogleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/TestNG_Programs/GoogleTitleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/TestNG_Programs/InvocationCountTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/TestNG_Programs/TestNGBasics.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/TestNG_Programs/TestNG_Annotations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/TestNG_Programs/TestNgFeatures.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNG_Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNG_Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -275,7 +263,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1632163790450" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1632164261804" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Interview_Ques" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
